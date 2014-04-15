@@ -1,0 +1,14 @@
+broker = {
+	"hostname": "mqtt.tiefpunkt.com",
+	"port": 1883,
+	"user": "",
+	"password": ""
+}
+
+sip = {
+	"proxy": "sipgate.de",
+	"user": "",
+	"password": ""
+}
+
+topic = "mumalab/communication/phone"
